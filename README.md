@@ -27,7 +27,7 @@
 25. Actor-critic
 26. Model-free RL
 27. Bayes theorem
-28. K-means clustering
+28. [K-means clustering](K-means_clustering.md)
 29. Bossting
 30. Decision tree
 31. Principal component analysis
