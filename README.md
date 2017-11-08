@@ -14,7 +14,7 @@
 12. InfoGAN
 13. Dropout
 14. Gaussian mixture
-15. Expetation minimization
+15. Expetation maximization
 16. Sofrmax
 17. LSTM
 18. GRU
