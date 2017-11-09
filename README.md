@@ -2,7 +2,7 @@
 
 1. Residual network
 2. Batch normalization
-3. Backpropagation
+3. [Backpropagation](Backpropagation.md)
 4. Shuffle net
 5. Variational autoencoder
 6. Attention
@@ -12,7 +12,7 @@
 10. RELU
 11. DCGAN
 12. InfoGAN
-13. Dropout
+13. [Dropout](Dropout.md)
 14. Gaussian mixture
 15. Expetation maximization
 16. Sofrmax
