@@ -15,7 +15,7 @@
 13. [Dropout](Dropout.md)
 14. Gaussian mixture
 15. Expetation maximization
-16. Sofrmax
+16. [Softmax](Softmax.md)
 17. LSTM
 18. GRU
 19. Resnext
