@@ -32,7 +32,7 @@
 30. Decision tree
 31. Principal component analysis
 32. Eigenvalue
-33. Linear regression
+33. [Linear regression](Linear-regression.md)
 34. Binomial distribution
 35. Support vector machin
 36. p-value
