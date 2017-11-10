@@ -23,7 +23,7 @@
 21. BLEU
 22. Inception module
 23. Weight diverge
-24. REINFORCE alogrithm
+24. REINFORCE algorithm
 25. Actor-critic
 26. Model-free RL
 27. Bayes theorem
@@ -37,7 +37,7 @@
 35. Support vector machin
 36. p-value
 37. Adaboost
-38. Markov descision process
+38. Markov decision process
 39. Hidden Markov model
 40. Q-learning
 41. Dynamic programming
