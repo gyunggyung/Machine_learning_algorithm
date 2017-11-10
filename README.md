@@ -9,7 +9,7 @@
 7. Mobile net
 8. BEGAN
 9. CRELU
-10. RELU
+10. [ReLU](ReLU.md)
 11. DCGAN
 12. InfoGAN
 13. [Dropout](Dropout.md)
