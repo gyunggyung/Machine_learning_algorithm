@@ -43,7 +43,7 @@
 41. Dynamic programming
 42. Law of large numbers
 43. Singular value decomposition
-44. Curese of dimension
+44. [Curese of dimension](Curese_of_dimension.md)
 45. Wasserstein distance
 46. Kullback-Leibler divergence
 47. L2 norm
