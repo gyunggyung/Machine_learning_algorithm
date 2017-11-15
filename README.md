@@ -26,7 +26,7 @@
 24. REINFORCE algorithm
 25. Actor-critic
 26. Model-free RL
-27. Bayes theorem
+27. [Bayes theorem](Bayes_theorem.md)
 28. [K-means clustering](K-means_clustering.md)
 29. Bossting
 30. Decision tree
