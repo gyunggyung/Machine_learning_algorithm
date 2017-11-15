@@ -35,7 +35,7 @@
 33. [Linear regression](Linear-regression.md)
 34. Binomial distribution
 35. Support vector machin
-36. p-value
+36. [p-value](p-value.md)
 37. Adaboost
 38. Markov decision process
 39. Hidden Markov model
