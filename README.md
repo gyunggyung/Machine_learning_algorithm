@@ -1,5 +1,7 @@
-# Machine_learning_algorithm
+# Machine_learning_algorithm  
+Machine learning과 관련된 여러가지 알고리즘을 정리합니다.
 
+## index  
 1. Residual network
 2. Batch normalization
 3. [Backpropagation](Backpropagation.md)
@@ -34,7 +36,7 @@
 32. Eigenvalue
 33. [Linear regression](Linear-regression.md)
 34. [Binomial distribution](Binomial_distribution.md)
-35. Support vector machin
+35. [Support vector machin](Support_vector_machin.md)
 36. [p-value](p-value.md)
 37. Adaboost
 38. Markov decision process
@@ -57,3 +59,9 @@
 55. Wavenet
 56. Wavelet
 57. SARSA algorithm
+
+## reference  
+> 유튜브 : https://www.youtube.com  
+> 추천 유튜버 : https://www.youtube.com/channel/UCML9R2ol-l0Ab9OXoNnr7Lw  
+> 위키 : https://en.wikipedia.org/wiki/Main_Page  
+> 도서 : http://book.naver.com/bookdb/book_detail.nhn?bid=4753048  
