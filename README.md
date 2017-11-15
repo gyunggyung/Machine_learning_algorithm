@@ -33,7 +33,7 @@
 31. Principal component analysis
 32. Eigenvalue
 33. [Linear regression](Linear-regression.md)
-34. Binomial distribution
+34. [Binomial distribution](Binomial_distribution.md)
 35. Support vector machin
 36. [p-value](p-value.md)
 37. Adaboost
@@ -46,7 +46,7 @@
 44. [Curese of dimension](Curese_of_dimension.md)
 45. Wasserstein distance
 46. Kullback-Leibler divergence
-47. L2 norm
+47. [L2 norm](L2_norm.md)
 48. A3C
 49. Cycle GAN
 50. Monte Carlo tree search
