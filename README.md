@@ -1,5 +1,6 @@
 # Machine_learning_algorithm  
-Machine learning과 관련된 여러가지 알고리즘을 정리합니다.
+Machine learning과 관련된 여러가지 알고리즘을 정리합니다.  
+11월 23일 ~ 26일 사이에 40개 완료 예정
 
 ## index  
 1. Residual network
