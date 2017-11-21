@@ -32,8 +32,8 @@ Machine learning과 관련된 여러가지 알고리즘을 정리합니다.
 27. [Bayes theorem](Bayes_theorem.md)
 28. [K-means clustering](K-means_clustering.md)
 29. Bossting
-30. Decision tree
-31. Principal component analysis
+30. [Decision tree](Decision_tree.md)
+31. [Principal component analysis](Principal_component_analysis)
 32. Eigenvalue
 33. [Linear regression](Linear-regression.md)
 34. [Binomial distribution](Binomial_distribution.md)
@@ -44,7 +44,7 @@ Machine learning과 관련된 여러가지 알고리즘을 정리합니다.
 39. Hidden Markov model
 40. Q-learning
 41. Dynamic programming
-42. Law of large numbers
+42. [Law of large numbers](Law_of_large_numbers.md)
 43. Singular value decomposition
 44. [Curese of dimension](Curese_of_dimension.md)
 45. Wasserstein distance
