@@ -19,7 +19,7 @@ Machine learning과 관련된 여러가지 알고리즘을 정리합니다.
 14. Gaussian mixture
 15. Expetation maximization
 16. [Softmax](Softmax.md)
-17. LSTM
+17. [LSTM](LSTM.md)
 18. GRU
 19. Resnext
 20. Fractal net
